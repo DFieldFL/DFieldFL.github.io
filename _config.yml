@@ -7,10 +7,11 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://DFieldFL.com'
+domain_name: 'https://DFieldFL.com'
 google_analytics: 'UA-94071150-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://DFieldFL.com'
+url:            'https://DFieldFL.com'
+enforce_ssl:    'DFieldFL.com'
 author:         'Brandon Groves'
