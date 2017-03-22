@@ -5,8 +5,8 @@
     <description>Software and electronics that interest me</description>
     <link>http://DFieldFL.com//</link>
     <atom:link href="http://DFieldFL.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Mar 2017 23:16:52 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 23:16:52 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 23:21:46 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 23:21:46 -0400</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -28,7 +28,7 @@ Oktoberfest - Yuengling Brewery id: 77287
 Bock Beer - Yuengling Brewery id: 5249&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;code&gt;/beer display 5249&lt;/code&gt; or &lt;code&gt;/beer display Yuengling Bock&lt;/code&gt;
-&lt;img src=&quot;http://DFieldFL.com/assets/images/slack-beer-bot-display-example.png&quot; alt=&quot;Beer display screenshot&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/slack-beer-bot-display-example.png&quot; alt=&quot;Beer display screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Please feel free to try out the Beer Bot on your own Slack and contribute any improvements back to &lt;a href=&quot;https://github.com/DFieldFL/slack-beer-search-bot&quot;&gt;GitHub&lt;/a&gt;. Enjoy!&lt;/p&gt;
 
