@@ -23,7 +23,7 @@ Bock Beer - Yuengling Brewery id: 5249
 {% endhighlight %}
 
 `/beer display 5249` or `/beer display Yuengling Bock`
-![Beer display screenshot](/assets/images/slack-beer-bot-display-example.png)
+![Beer display screenshot](/assets/images/2017-03-21-slack-beer-bot-display-example.png)
 
 Please feel free to try out the Beer Bot on your own Slack and contribute any improvements back to [GitHub][github-slack-beer-bot]. Enjoy!
 
