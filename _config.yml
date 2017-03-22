@@ -3,7 +3,7 @@ description: Software and electronics that interest me
 meta_description: "Brandon Groves blog about software and electronics that interest me"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
