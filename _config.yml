@@ -1,15 +1,15 @@
 name: Brandon Groves Blog
 description: Software and electronics that interest me
-meta_description: "Brandon Groves blog about software and electronics that interest me"
+meta_description: "Brandon Groves blog about software and electronics that interest me."
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
+baseurl: ''
 domain_name: 'https://DFieldFL.com'
 google_analytics: 'UA-94071150-1'
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 
 # Details for the RSS feed generator
 url:            'https://DFieldFL.com'

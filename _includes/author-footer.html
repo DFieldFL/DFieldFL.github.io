@@ -1,0 +1,32 @@
+<!-- If we want to display author's name and bio -->
+{% if site.author %}
+<div class="author-footer">
+    <figure class="author-image">
+        <a class="img" href="{{ site.baseurl }}/" style="background-image: url(/assets/images/profile.png)">
+        <span class="hidden">{{ site.author }}'s Picture</span></a>
+    </figure>
+    <section class="author">
+        <!-- Author Name -->
+        <h4> {{ site.author }} </h4>
+        <!-- Author Bio -->
+        <p>
+            Cool, fun and energetic Software Engineer who loves technology.
+        </p>
+    </section>
+    <section class="social">
+        <h4>Social</h4>
+        <a class="icon" href="https://twitter.com/DField_FL">
+            <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+            <span class="hidden">Twitter</span>
+        </a>
+        <a class="icon" href="https://github.com/DFieldFL">
+            <i class="fa fa-github fa-lg" aria-hidden="true"></i>
+            <span class="hidden">GitHub</span>
+        </a>
+        <a class="icon" href="https://www.linkedin.com/in/brandongroves">
+            <i class="fa fa-linkedin fa-lg" aria-hidden="true"></i>
+            <span class="hidden">LinkedIn</span>
+        </a>
+    </section>
+</div>
+{% endif %}
